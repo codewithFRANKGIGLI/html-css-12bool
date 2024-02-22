@@ -5,3 +5,7 @@
     padding: 10px;
     border: 1px solid white;
 }
+.box .box {
+    background-color: #00E265; 
+    border: 1px solid #016DFA;
+}
