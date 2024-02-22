@@ -9,3 +9,6 @@
     background-color: #00E265; 
     border: 1px solid #016DFA;
 }
+body .container:nth-child(2) .box {
+    height: 3rem;
+}
